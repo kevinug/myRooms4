@@ -1,0 +1,5 @@
+repository\RoomRepository.class
+service\RoomService.class
+com\example\myRooms\rooms_mngmnt\RoomsMngmntApplication.class
+controller\RoomController.class
+model\Room.class
